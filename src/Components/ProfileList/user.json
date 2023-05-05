@@ -1,0 +1,68 @@
+[
+  {
+    "username": "Jacques Gluke",
+    "tag": "jgluke",
+    "location": "Ocho Rios, Jamaica",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+    "stats": {
+      "followers": 5603,
+      "views": 4827,
+      "likes": 1308
+    }
+  },
+  {
+    "username": "Bob Monkey",
+    "tag": "monk",
+    "location": "Sun street, Italy",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+    "stats": {
+      "followers": 1324,
+      "views": 34634,
+      "likes": 3241
+    }
+  },
+  {
+    "username": "Albert Badminton",
+    "tag": "albo",
+    "location": "Berlin, Germany",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+    "stats": {
+      "followers": 12349,
+      "views": 12312,
+      "likes": 9812
+    }
+  },
+  {
+    "username": "Rob Robbery",
+    "tag": "robby",
+    "location": "Arizona, USA",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+    "stats": {
+      "followers": 124,
+      "views": 33454,
+      "likes": 12
+    }
+  },
+  {
+    "username": "Valera",
+    "tag": "valer",
+    "location": "Kyiv, Ukraine",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+    "stats": {
+      "followers": 512103,
+      "views": 42527,
+      "likes": 1653
+    }
+  },
+  {
+    "username": "Joe Biden",
+    "tag": "joe",
+    "location": "Mongolia",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+    "stats": {
+      "followers": 23712,
+      "views": 4234235,
+      "likes": 32471927
+    }
+  }
+]

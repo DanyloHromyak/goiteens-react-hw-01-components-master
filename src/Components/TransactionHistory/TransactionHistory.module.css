@@ -1,0 +1,31 @@
+.table {
+  width: 100%;
+  border: 1px solid #000;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.table tr {
+  border: 1px solid #000;
+  background-color: #f4f4f4;
+}
+
+.table th,
+.table td {
+  text-align: center;
+  padding: 10px;
+}
+
+.table th {
+  font-size: 24px;
+}
+
+.table td {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.tbody {
+}
